@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "css-select": "^5.1.0",
-    "css-tree": "github.com/mithunsen-roki/csstree.git"
+    "css-tree": "https://github.com/mithunsen-roki/csstree.git"
   },
   "devDependencies": {
     "@babel/core": "^7.18.2",
